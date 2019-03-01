@@ -6,3 +6,4 @@
 4.Time
 5.Date
 6. Course units
+[Alt Text]http:full/path/to/screenshot(1).png
